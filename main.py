@@ -3,8 +3,8 @@
 # Make your Code
 # *****************************
 numbers=[]
-minval=10000000000000
-maxval=-1
+minval=1000000000000000
+maxval=-1000000000000000
 totalInps=0
 totalSum=0
 while totalInps<5:
